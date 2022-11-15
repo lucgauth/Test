@@ -11,7 +11,7 @@ The faint young sun paradox is one of the largest problems in paleoclimatology, 
 
 
 ## Potential solutions
-There are numerous theories that have been proposed to resolve the FYSP. The most popular theory is the greenhouse effect, a natural process that traps heat in the atmosphere, warming Earth’s surface (University Corporation for Atmospheric Research, n.d.). These theories suggest different mechanisms that could raise atmospheric CO2, keeping the Earth from freezing (Ruddiman, 2014).
+There are numerous theories that have been proposed to resolve the FYSP. The most popular theory is the greenhouse effect, a natural process that traps heat in the atmosphere, warming Earth’s surface (University Corporation for Atmospheric Research, n.d.). These theories suggest different mechanisms that would allow higher atmospheric CO2, keeping the Earth from freezing (Ruddiman, 2014).
 
 ### Chemical weathering
 Chemical weathering is a method of carbon sequestration (capture, removal, and storage) that’s influenced by factors like temperature and precipitation (Ruddiman, 2014). Weathering is a negative feedback that is decreased by cold, dry environments, which reduces sequestration and will increase warming.
