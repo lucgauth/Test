@@ -1,4 +1,4 @@
-# Executive Public Summary
+# The Faint Young Sun Paradox: An Ancient Climate Mystery
 *iSci 3A12 Climate Change, Fall 2022*
 
 ## The Faint Young Sun Paradox
