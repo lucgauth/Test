@@ -37,28 +37,30 @@ Overall, the FYSP is a complicated topic that has not been fully resolved. While
 
 ## Works cited
 
-Goldblatt, C. and Zahnle, K.J., 2011. Clouds and the Faint Young Sun Paradox. Climate of the Past, 7(1), pp.203–220. ht<span>tps://doi.org/<span>10.5194/cp-7-203-2011.
+Goldblatt, C. and Zahnle, K.J., 2011. Clouds and the Faint Young Sun Paradox. *Climate of the Past*, 7(1), pp.203–220. ht<span>tps://doi.org/<span>10.5194/cp-7-203-2011.
 
-Güdel, M., 2014. Faint Young Sun Paradox. In: R. Amils, M. Gargaud, J. Cernicharo Quintanilla, H.J. Cleaves, W.M. Irvine, D. Pinti and M. Viso, eds. Encyclopedia of Astrobiology. [online] Berlin, Heidelberg: Springer. pp.1–7. ht<span>tps://doi.org<span>/10.1007/978-3-642-27833-4_1700-5.
+Güdel, M., 2014. Faint Young Sun Paradox. In: R. Amils, M. Gargaud, J. Cernicharo Quintanilla, H.J. Cleaves, W.M. Irvine, D. Pinti and M. Viso, eds. *Encyclopedia of Astrobiology*. [online] Berlin, Heidelberg: Springer. pp.1–7. ht<span>tps://doi.org<span>/10.1007/978-3-642-27833-4_1700-5.
 
-Heller, R., Duda, J.-P., Winkler, M., Reitner, J. and Gizon, L., 2021. Habitability of the early Earth: liquid water under a faint young Sun facilitated by strong tidal heating due to a closer Moon. PalZ, 95(4), pp.563–575. ht<span>tps://doi<span>.org/10.1007/s12542-021-00582-7.
+Heller, R., Duda, J.-P., Winkler, M., Reitner, J. and Gizon, L., 2021. Habitability of the early Earth: liquid water under a faint young Sun facilitated by strong tidal heating due to a closer Moon. *PalZ*, 95(4), pp.563–575. ht<span>tps://doi<span>.org/10.1007/s12542-021-00582-7.
 
-Heydari, E., Schroeder, J.F., Calef, F.J., Van Beek, J., Rowland, S.K., Parker, T.J. and Fairén, A.G., 2020. Deposits from giant floods in Gale crater and their implications for the climate of early Mars. Scientific Reports, [online] 10(1). h<span>ttps://doi<span>.org/10.1038/s41598-020-75665-7.
+Heydari, E., Schroeder, J.F., Calef, F.J., Van Beek, J., Rowland, S.K., Parker, T.J. and Fairén, A.G., 2020. Deposits from giant floods in Gale crater and their implications for the climate of early Mars. *Scientific Reports*, [online] 10(1). h<span>ttps://doi<span>.org/10.1038/s41598-020-75665-7.
 
-Keenan, T.F. and Williams, C.A., 2018. The Terrestrial Carbon Sink. Annual Review of Environment and Resources, 43(1), pp.219–243. ht<span>tps://doi<span>.org/10.1146/annurev-environ-102017-030204.
-
-Learner.org, 2019. Unit 1: Many Planets, One Earth. In: The Habitable Planet. [online] Available at: <htt<span>ps://ww<span>w.learner.org<span>/wp-content/uploads/2019/01/unit1.pdf>.   
+Keenan, T.F. and Williams, C.A., 2018. The Terrestrial Carbon Sink. *Annual Review of Environment and Resources*, 43(1), pp.219–243. ht<span>tps://doi<span>.org/10.1146/annurev-environ-102017-030204.   
   
-Le Quéré, C., Andrew, R.M., Canadell, J.G., Sitch, S., Korsbakken, J.I., Peters, G.P., Manning, A.C., Boden, T.A., Tans, P.P., Houghton, R.A., Keeling, R.F., Alin, S., Andrews, O.D., Anthoni, P., Barbero, L., Bopp, L., Chevallier, F., Chini, L.P., Ciais, P., Currie, K., Delire, C., Doney, S.C., Friedlingstein, P., Gkritzalis, T., Harris, I., Hauck, J., Haverd, V., Hoppema, M., Klein Goldewijk, K., Jain, A.K., Kato, E., Körtzinger, A., Landschützer, P., Lefèvre, N., Lenton, A., Lienert, S., Lombardozzi, D., Melton, J.R., Metzl, N., Millero, F., Monteiro, P.M.S., Munro, D.R., Nabel, J.E.M.S., Nakaoka, S., O’Brien, K., Olsen, A., Omar, A.M., Ono, T., Pierrot, D., Poulter, B., Rödenbeck, C., Salisbury, J., Schuster, U., Schwinger, J., Séférian, R., Skjelvan, I., Stocker, B.D., Sutton, A.J., Takahashi, T., Tian, H., Tilbrook, B., van der Laan-Luijkx, I.T., van der Werf, G.R., Viovy, N., Walker, A.P., Wiltshire, A.J. and Zaehle, S., 2016. Global Carbon Budget 2016. Earth System Science Data, 8(2), pp.605–649. ht<span>tps://doi.<span>org/10.5194/essd-8-605-2016.
+Le Quéré, C., Andrew, R.M., Canadell, J.G., Sitch, S., Korsbakken, J.I., Peters, G.P., Manning, A.C., Boden, T.A., Tans, P.P., Houghton, R.A., Keeling, R.F., Alin, S., Andrews, O.D., Anthoni, P., Barbero, L., Bopp, L., Chevallier, F., Chini, L.P., Ciais, P., Currie, K., Delire, C., Doney, S.C., Friedlingstein, P., Gkritzalis, T., Harris, I., Hauck, J., Haverd, V., Hoppema, M., Klein Goldewijk, K., Jain, A.K., Kato, E., Körtzinger, A., Landschützer, P., Lefèvre, N., Lenton, A., Lienert, S., Lombardozzi, D., Melton, J.R., Metzl, N., Millero, F., Monteiro, P.M.S., Munro, D.R., Nabel, J.E.M.S., Nakaoka, S., O’Brien, K., Olsen, A., Omar, A.M., Ono, T., Pierrot, D., Poulter, B., Rödenbeck, C., Salisbury, J., Schuster, U., Schwinger, J., Séférian, R., Skjelvan, I., Stocker, B.D., Sutton, A.J., Takahashi, T., Tian, H., Tilbrook, B., van der Laan-Luijkx, I.T., van der Werf, G.R., Viovy, N., Walker, A.P., Wiltshire, A.J. and Zaehle, S., 2016. Global Carbon Budget 2016. *Earth System Science Data*, 8(2), pp.605–649. ht<span>tps://doi.<span>org/10.5194/essd-8-605-2016.
 
-Martens, P.C., 2016. The Faint Young Sun and Faint Young Stars Paradox. Proceedings of the International Astronomical Union, 12(328), pp.350–355. ht<span>tps://doi<span>.org/10.1017/S1743921317004331.
+Learner.org, 2019. Unit 1: Many Planets, One Earth. In: *The Habitable Planet*. [online] Available at: <htt<span>ps://ww<span>w.learner.org<span>/wp-content/uploads/2019/01/unit1.pdf>. 
+  
+Martens, P.C., 2016. The Faint Young Sun and Faint Young Stars Paradox. *Proceedings of the International Astronomical Union*, 12(328), pp.350–355. ht<span>tps://doi<span>.org/10.1017/S1743921317004331.
 
-Minton, D.A. and Malhotra, R., 2007. Assessing the Massive Young Sun Hypothesis to Solve the Warm Young Earth Puzzle. The Astrophysical Journal, 660(2), pp.1700–1706. ht<span>tps://doi<span>.org/10.1086/514331.
+Minton, D.A. and Malhotra, R., 2007. Assessing the Massive Young Sun Hypothesis to Solve the Warm Young Earth Puzzle. *The Astrophysical Journal*, 660(2), pp.1700–1706. ht<span>tps://doi<span>.org/10.1086/514331.
 
-Ruddiman, W.F., 2014. Earth’s Climate: Past and Present. Third Edition ed. New York: W. H. Freeman and Company.
+Ruddiman, W.F., 2014. *Earth’s Climate: Past and Present*. Third Edition ed. New York: W. H. Freeman and Company.
 
-Sagan, C. and Mullen, G., 1972. Earth and Mars: Evolution of Atmospheres and Surface Temperatures. Science, 177(4043), pp.52–56. ht<span>tps://doi<span>.org/10.1126/science.177.4043.52.
+Sagan, C. and Mullen, G., 1972. Earth and Mars: Evolution of Atmospheres and Surface Temperatures. *Science*, 177(4043), pp.52–56. ht<span>tps://doi<span>.org/10.1126/science.177.4043.52.
 
-Taylor, F.W., Svedhem, H. and Head, J.W., 2018. Venus: The Atmosphere, Climate, Surface, Interior and Near-Space Environment of an Earth-Like Planet. Space Science Reviews, 214(1), p.35. htt<span>ps://doi.<span>org/10.1007/s11214-018-0467-8.
+Taylor, F.W., Svedhem, H. and Head, J.W., 2018. Venus: The Atmosphere, Climate, Surface, Interior and Near-Space Environment of an Earth-Like Planet. *Space Science Reviews*, 214(1), p.35. htt<span>ps://doi.<span>org/10.1007/s11214-018-0467-8.
 
-Turbet, M., Bolmont, E., Chaverot, G., Ehrenreich, D., Leconte, J. and Marcq, E., 2021. Day–night cloud asymmetry prevents early oceans on Venus but not on Earth. Nature, 598(7880), pp.276–280. ht<span>tps://doi.<span>org/10.1038/s41586-021-03873-w.
+Turbet, M., Bolmont, E., Chaverot, G., Ehrenreich, D., Leconte, J. and Marcq, E., 2021. Day–night cloud asymmetry prevents early oceans on Venus but not on Earth. *Nature*, 598(7880), pp.276–280. ht<span>tps://doi.<span>org/10.1038/s41586-021-03873-w.
+  
+University Corporation for Atmospheric Research, 2022. *The Greenhouse Effect*. [online] UCAR: Center for Science Education. Available at: <htt<span>ps://scied.ucar.edu<span>/learning-zone/how-climate-works/greenhouse-effect> [Accessed 14 November 2022].
