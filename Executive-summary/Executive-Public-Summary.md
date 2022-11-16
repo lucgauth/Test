@@ -5,7 +5,7 @@
 The faint young sun paradox is one of the largest problems in paleoclimatology, which was discovered by Carl Sagan and George Mullen in 1972. Based on mathematical models, it has been determined that early Earth’s surface temperature must have been below the freezing point of sea water (Figure 1). However, geological and fossil evidence prove that liquid water existed at this time, leading to the paradox (Sagan and Mullen, 1972).
 
 ### Figure 1: The Faint Young Sun paradox
-<img src="Figure1.png" alt="Time series of station and global annual temperature anomalies" width="700" style="border: 1px solid darkgrey">
+<img src="Figure1.png" width="700" style="border: 1px solid darkgrey">
 
 *Figure 1: Standard solar models show when the Earth formed, the Sun was only at 70% of its present luminosity (red line), and thus the Earth was much colder. Whether the Earth had the same atmosphere as at present, or no atmosphere (brown lines), the temperature would have been significantly below the freezing point of water (blue line) for several billion years. However, the evolution of life during this time indicates that this was not the case and the actual temperature of the Earth was much higher. This problem makes up the Faint Young Sun Paradox (Learner.org, 2019).*
 
