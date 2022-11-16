@@ -1,4 +1,5 @@
 # The Faint Young Sun Paradox: An Ancient Climate Mystery
+#### Written by Luc Gauthier, Megan Groshok, Lauren Mutton, Leah Smith
 *iSci 3A12 Climate Change, Fall 2022*
 
 ## The Faint Young Sun Paradox
