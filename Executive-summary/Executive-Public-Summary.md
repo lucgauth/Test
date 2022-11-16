@@ -17,7 +17,7 @@ There are numerous theories that have been proposed to resolve the FYSP. The mos
 ### Chemical weathering
 Chemical weathering is a method of carbon sequestration (capture, removal, and storage) that’s influenced by factors like temperature and precipitation (Ruddiman, 2014). Weathering is a negative feedback that is decreased by cold, dry environments, which reduces sequestration and will increase warming.
 
-### Early evolution of life
+### Early Biological Carbon Sequestration
 The early evolution of life induces biological sequestration, which may be accountable for the differences between past and present atmospheric carbon dioxide levels. Plants regulate atmospheric carbon dioxide through photosynthesis and respiration, which allows them to remove human-caused carbon emissions from the environment (Le Quéré et al., 2016; Keenan and Williams, 2018).
 
 ### Moon tidal heating
